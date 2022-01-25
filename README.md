@@ -14,6 +14,6 @@ Passo a Passo:
 
 
 Conclusão:
- -O  genero mais atacado é o masculino;
- -Os piores lugares onde os tubarões mais atacaram foi EUA, Australia, África do Sul, Papua Nova Guiné e Brasil!;
- -As atividades que são mais atacadas por tubarões são o surfadarar, pescar, nadar, mergulhar.
+ - O  genero mais atacado é o masculino;
+ - Os piores lugares onde os tubarões mais atacaram foi EUA, Australia, África do Sul, Papua Nova Guiné e Brasil!;
+ - As atividades que são mais atacadas por tubarões são o surfadarar, pescar, nadar, mergulhar.
